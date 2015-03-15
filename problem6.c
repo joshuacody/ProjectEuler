@@ -1,7 +1,7 @@
 /*#######################################################
 # Author: Joshua Smith
-# Date Created: March 13, 2015
-# Date Last Modified: March 13, 2015
+# Date Created: March 15, 2015
+# Date Last Modified: March 15, 2015
 # Description: Finds the difference between the sum of the 
 #				squares and the square of the sum of the 
 #				first 100 natural numbers
